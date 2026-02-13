@@ -1,5 +1,8 @@
 # 👗 StyleSense AI – Project README
 
+🔗 Project URL
+https://aistudio.google.com/apps/drive/1fVR_kEp-RpkmZhuUqzUgxS7ghtLjioXl?showPreview=true&showAssistant=true&fullscreenApplet=true
+
 ## 📌 What is this project about?
 
 StyleSense AI is an AI-powered fashion assistant that helps users choose the most suitable clothes based on their skin tone, body type, and personal appearance.
